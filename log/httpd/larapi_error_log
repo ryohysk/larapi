@@ -1,0 +1,14 @@
+[Sun Jul 08 17:27:56.176993 2018] [authz_core:error] [pid 162] [client 172.22.0.1:49456] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/
+[Sun Jul 08 17:27:56.268268 2018] [authz_core:error] [pid 163] [client 172.22.0.1:49458] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/noindex, referer: http://localhost/noindex/css/open-sans.css
+[Sun Jul 08 17:27:56.268500 2018] [authz_core:error] [pid 165] [client 172.22.0.1:49462] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/noindex, referer: http://localhost/noindex/css/open-sans.css
+[Sun Jul 08 17:27:56.310431 2018] [authz_core:error] [pid 165] [client 172.22.0.1:49462] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/noindex, referer: http://localhost/noindex/css/open-sans.css
+[Sun Jul 08 17:27:56.310844 2018] [authz_core:error] [pid 163] [client 172.22.0.1:49458] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/noindex, referer: http://localhost/noindex/css/open-sans.css
+[Sun Jul 08 17:28:21.757640 2018] [authz_core:error] [pid 168] [client 172.22.0.1:49470] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/index.php
+[Sun Jul 08 17:29:35.012224 2018] [authz_core:error] [pid 164] [client 172.22.0.1:49480] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/public
+[Sun Jul 08 17:46:58.864129 2018] [authz_core:error] [pid 169] [client 172.22.0.1:49490] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/public
+[Sun Jul 08 17:50:00.082005 2018] [authz_core:error] [pid 200] [client 172.22.0.1:49496] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/public
+[Sun Jul 08 17:50:15.300283 2018] [authz_core:error] [pid 203] [client 172.22.0.1:49504] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/index.php
+[Sun Jul 08 17:51:40.273305 2018] [authz_core:error] [pid 205] [client 172.22.0.1:49506] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/index.php
+[Sun Jul 08 17:51:46.412681 2018] [authz_core:error] [pid 200] [client 172.22.0.1:49508] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/public
+[Sun Jul 08 17:51:53.174702 2018] [authz_core:error] [pid 201] [client 172.22.0.1:49510] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/index.php
+[Sun Jul 08 17:52:36.333476 2018] [authz_core:error] [pid 219] [client 172.22.0.1:49512] AH01630: client denied by server configuration: /data/doc_root/service/larapi/public/index.php

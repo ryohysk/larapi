@@ -1,0 +1,96 @@
+[Sun Jul 08 17:27:41.561818 2018] [suexec:notice] [pid 161] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jul 08 17:27:41.590544 2018] [so:warn] [pid 161] AH01574: module ssl_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 17:27:41.601245 2018] [auth_digest:notice] [pid 161] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 17:27:41.601944 2018] [lbmethod_heartbeat:notice] [pid 161] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 17:27:41.618129 2018] [mpm_prefork:notice] [pid 161] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 17:27:41.618608 2018] [core:notice] [pid 161] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 17:49:52.329961 2018] [mpm_prefork:notice] [pid 161] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Jul 08 17:49:53.450182 2018] [suexec:notice] [pid 187] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jul 08 17:49:53.467710 2018] [so:warn] [pid 187] AH01574: module ssl_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 17:49:53.478080 2018] [auth_digest:notice] [pid 187] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 17:49:53.478857 2018] [lbmethod_heartbeat:notice] [pid 187] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 17:49:53.503820 2018] [mpm_prefork:notice] [pid 187] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 17:49:53.504228 2018] [core:notice] [pid 187] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 17:49:55.820216 2018] [mpm_prefork:notice] [pid 187] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Jul 08 17:49:56.945740 2018] [suexec:notice] [pid 199] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jul 08 17:49:56.965315 2018] [so:warn] [pid 199] AH01574: module ssl_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 17:49:56.975421 2018] [auth_digest:notice] [pid 199] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 17:49:56.976061 2018] [lbmethod_heartbeat:notice] [pid 199] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 17:49:56.995811 2018] [mpm_prefork:notice] [pid 199] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 17:49:56.996498 2018] [core:notice] [pid 199] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 17:52:32.337473 2018] [mpm_prefork:notice] [pid 199] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Jul 08 17:52:33.478415 2018] [suexec:notice] [pid 218] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jul 08 17:52:33.494896 2018] [so:warn] [pid 218] AH01574: module ssl_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 17:52:33.504444 2018] [auth_digest:notice] [pid 218] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 17:52:33.505080 2018] [lbmethod_heartbeat:notice] [pid 218] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 17:52:33.523215 2018] [mpm_prefork:notice] [pid 218] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 17:52:33.523634 2018] [core:notice] [pid 218] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 17:56:05.915715 2018] [mpm_prefork:notice] [pid 218] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Jul 08 17:56:07.036663 2018] [suexec:notice] [pid 238] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jul 08 17:56:07.052175 2018] [so:warn] [pid 238] AH01574: module ssl_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 17:56:07.060875 2018] [auth_digest:notice] [pid 238] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 17:56:07.061440 2018] [lbmethod_heartbeat:notice] [pid 238] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 17:56:07.077367 2018] [mpm_prefork:notice] [pid 238] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 17:56:07.077671 2018] [core:notice] [pid 238] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 18:16:39.217556 2018] [suexec:notice] [pid 48] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jul 08 18:16:39.250067 2018] [so:warn] [pid 48] AH01574: module ssl_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 18:16:39.259727 2018] [auth_digest:notice] [pid 48] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 18:16:39.260387 2018] [lbmethod_heartbeat:notice] [pid 48] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 18:16:39.275592 2018] [mpm_prefork:notice] [pid 48] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 18:16:39.275883 2018] [core:notice] [pid 48] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 18:25:51.510561 2018] [suexec:notice] [pid 89] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 18:25:51.542685 2018] [auth_digest:notice] [pid 89] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 18:25:51.543298 2018] [lbmethod_heartbeat:notice] [pid 89] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 18:25:51.543554 2018] [ssl:warn] [pid 89] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 08 18:25:51.560482 2018] [mpm_prefork:notice] [pid 89] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 18:25:51.560880 2018] [core:notice] [pid 89] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 18:36:35.580498 2018] [suexec:notice] [pid 52] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 18:36:35.607568 2018] [auth_digest:notice] [pid 52] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 18:36:35.608245 2018] [lbmethod_heartbeat:notice] [pid 52] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 18:36:35.608517 2018] [ssl:warn] [pid 52] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 08 18:36:35.619296 2018] [mpm_prefork:notice] [pid 52] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.3.0alpha3 configured -- resuming normal operations
+[Sun Jul 08 18:36:35.619692 2018] [core:notice] [pid 52] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 18:44:04.286112 2018] [suexec:notice] [pid 61] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 18:44:04.326364 2018] [auth_digest:notice] [pid 61] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 18:44:04.327086 2018] [lbmethod_heartbeat:notice] [pid 61] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 18:44:04.327591 2018] [ssl:warn] [pid 61] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 08 18:44:04.360966 2018] [mpm_prefork:notice] [pid 61] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 18:44:04.363699 2018] [core:notice] [pid 61] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 19:03:19.462446 2018] [suexec:notice] [pid 58] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 19:03:19.489615 2018] [auth_digest:notice] [pid 58] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 19:03:19.490254 2018] [lbmethod_heartbeat:notice] [pid 58] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 19:03:19.490570 2018] [ssl:warn] [pid 58] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 08 19:03:19.498633 2018] [mpm_prefork:notice] [pid 58] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16 configured -- resuming normal operations
+[Sun Jul 08 19:03:19.498973 2018] [core:notice] [pid 58] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 19:09:11.066320 2018] [suexec:notice] [pid 51] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 19:09:11.096533 2018] [auth_digest:notice] [pid 51] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 19:09:11.097120 2018] [lbmethod_heartbeat:notice] [pid 51] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 19:09:11.097358 2018] [ssl:warn] [pid 51] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 08 19:09:11.113564 2018] [mpm_prefork:notice] [pid 51] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.7 configured -- resuming normal operations
+[Sun Jul 08 19:09:11.113974 2018] [core:notice] [pid 51] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 19:18:38.898357 2018] [mpm_prefork:notice] [pid 51] AH00170: caught SIGWINCH, shutting down gracefully
+[Sun Jul 08 19:18:40.024396 2018] [suexec:notice] [pid 129] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 19:18:40.048887 2018] [auth_digest:notice] [pid 129] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 19:18:40.049729 2018] [lbmethod_heartbeat:notice] [pid 129] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 19:18:40.050126 2018] [ssl:warn] [pid 129] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jul 08 19:18:40.070297 2018] [mpm_prefork:notice] [pid 129] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.7 configured -- resuming normal operations
+[Sun Jul 08 19:18:40.070649 2018] [core:notice] [pid 129] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Sun Jul 08 20:43:22.581806 2018] [suexec:notice] [pid 91] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Sun Jul 08 20:43:22.603824 2018] [so:warn] [pid 91] AH01574: module ssl_module is already loaded, skipping
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.22.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 08 20:43:22.613281 2018] [auth_digest:notice] [pid 91] AH01757: generating secret for digest authentication ...
+[Sun Jul 08 20:43:22.613891 2018] [lbmethod_heartbeat:notice] [pid 91] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 20:43:22.637319 2018] [mpm_prefork:notice] [pid 91] AH00163: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.7 configured -- resuming normal operations
+[Sun Jul 08 20:43:22.637706 2018] [core:notice] [pid 91] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'

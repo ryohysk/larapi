@@ -1,0 +1,2 @@
+[08-Jul-2018 17:56:12 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /data/doc_root/service/larapi/public/index.php on line 52
+[08-Jul-2018 18:25:55 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /data/doc_root/service/larapi/public/index.php on line 52
